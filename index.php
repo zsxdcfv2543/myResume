@@ -6,6 +6,7 @@
     <title>PHP - Hello, World!</title>
 </head>
 <body>
+    <img src="man.jpg" style="width:100%;">
         <h1><?php echo 'Vachira Poomsaka'; ?></h1>
 </body>
 </html>
